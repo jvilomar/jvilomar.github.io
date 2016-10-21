@@ -1,0 +1,20 @@
+{
+  "name": "jvilomar",
+  "version": "1.0.0",
+  "description": "Personal Site for Jose Manuel Vilomar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jvilomar@github.com/jvilomar/jvilomar.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvilomar/jvilomar.github.io/issues"
+  },
+  "homepage": "https://github.com/jvilomar/jvilomar.github.io#readme"
+}
